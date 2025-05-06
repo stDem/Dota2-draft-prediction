@@ -1,5 +1,7 @@
 # 🎮 Dota 2 Draft Prediction
 
+<img src="./prediction.gif">
+
 Created by:
 - Anastasiia Demidova (anastasiia.demidova@study.thws.de);
 - Mark Erokhin (mark.erokhin@study.thws.de)
